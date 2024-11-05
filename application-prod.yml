@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-prod
+    name: HOTEL-SERVICE
 eureka:
   client:
     fetch-registry: true
