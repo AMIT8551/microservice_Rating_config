@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: HOTEL-SERVICE
+# spring:
+#   application:
+#     name: HOTEL-SERVICE
 eureka:
   client:
     fetch-registry: true
